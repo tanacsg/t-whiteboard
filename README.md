@@ -11,3 +11,12 @@
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
 
+
+## Commands
+
+ ./mvnw.bat mn:run
+
+ ./mvnw.bat install
+
+ 
+
